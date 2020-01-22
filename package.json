@@ -78,7 +78,7 @@
     "auth0-lock": "^11.17.2",
     "ember-auto-import": "^1.5.2",
     "ember-cli-babel": "^7.10.0",
-    "ember-simple-auth": "^1.9.2",
+    "ember-simple-auth": "simplabs/ember-simple-auth#f3260062e5f23bb51f26f0a73155e50b5c14f334",
     "webpack": "^4.39.2"
   },
   "ember-addon": {
