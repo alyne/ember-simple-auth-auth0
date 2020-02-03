@@ -74,8 +74,8 @@
     "authorization"
   ],
   "dependencies": {
-    "auth0-js": "^9.11.3",
-    "auth0-lock": "^11.17.2",
+    "auth0-js": "^9.12.2",
+    "auth0-lock": "^11.21.0",
     "ember-auto-import": "^1.5.2",
     "ember-cli-babel": "^7.10.0",
     "ember-simple-auth": "simplabs/ember-simple-auth#f3260062e5f23bb51f26f0a73155e50b5c14f334",
