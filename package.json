@@ -49,7 +49,7 @@
     "ember-mockdate-shim": "^0.1.0",
     "ember-moment": "^7.8.0",
     "ember-qunit-nice-errors": "^1.2.0",
-    "ember-resolver": "^5.0.1",
+    "ember-resolver": "^8.0.2",
     "ember-sinon": "^3.1.0",
     "ember-sinon-qunit": "^3.4.0",
     "ember-source": "~3.7.2",
